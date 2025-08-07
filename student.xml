@@ -6,11 +6,8 @@
         <course>Computer Science</course>
         <year>3</year>
     </student>
-</students>
-
-<students>
     <student>
-        <id>1</id>
+        <id>2</id>
         <name>Dawa Tshering</name>
         <course>Computer Science</course>
         <year>3</year>
